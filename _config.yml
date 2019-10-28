@@ -22,14 +22,14 @@ description: Voyage of a Security Enthusiast
 navigation:
   - name: Blog
     url: /
+  - name: Home
+    url: https://www.hawkspawn.com
   - name: About
     url: /about
   - name: Archive
     url: /archive
   - name: Tags
     url: /tags
-  - name: Home
-    url: https://www.hawkspawn.com
 
 # Pagination
 paginate: 5
