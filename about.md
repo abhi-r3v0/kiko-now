@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+I write about my findings and little experiments here.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[jmabhishek4@gmail.com](mailto:jmabhishek4@gmail.com)
+* [Portfolio](https://www.hawkspawn.com)
+* [LinkedIn](https://Linkedin.com/in/hawkspawn/)
+* [Twitter](https://twitter.com/HawkSpawn)
+* [GitHub](https://github.com/abhi-r3v0) 
+
