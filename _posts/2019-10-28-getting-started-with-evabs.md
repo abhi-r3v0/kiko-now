@@ -5,8 +5,6 @@ tags: [Android, Android Security, CTF, EVABS]
 
 ---
 
-# EVABS
-
 ## Introduction
 
 ### What are CTFs?
