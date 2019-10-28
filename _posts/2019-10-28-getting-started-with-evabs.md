@@ -31,7 +31,7 @@ EVABS - Extremely Vulnerable Android Labs is a CTF-style, Android application th
 1. The advantage of CTF-style approach is that the user gets to verify if he successfully exploited a particular service/application/program or not, by getting a flag and submitting it to a flag verifying service online.
 2. EVABS is finely crafted to match the requirements of a beginner. EVABS is divided into 12 levels and with each level, the difficulty linearly increases and user learns a new kind of attack.
 3. The vulnerabilities in EVABS replicate real-world vulnerabilties. This helps people focusing on bug bounty/CTFs as well.
-4. EVABS is open source. This means it can be used a medium to understand how not to write a piece of code :)
+4. EVABS is open source. This means it can be used as a medium to understand how not to write a piece of code :)
 
 ---
 ## Requirements and Environment Setup
