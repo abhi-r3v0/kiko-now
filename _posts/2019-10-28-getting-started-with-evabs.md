@@ -34,7 +34,7 @@ EVABS - Extremely Vulnerable Android Labs is a CTF-style, Android application th
 4. EVABS is open source. This means it can be used a medium to understand how not to write a piece of code :)
 
 ---
-## Requirements and Setup
+## Requirements and Environment Setup
 #### Must Have
 * A rooted device or emulator. A rooted device is recommended
     - For a rooted device, one of the below devices are recommended
@@ -46,16 +46,30 @@ EVABS - Extremely Vulnerable Android Labs is a CTF-style, Android application th
       | 3/3T/5/5T   | OnePlus    |
       
       Any other device of your choice could be used, provided, they have `root` available. You can check if your device can be rooted easily by Googling.
+      
+    - If you're choosig an emulator, either you can use [Genymotion](https://www.genymotion.com/fun-zone/) or use the default Android emulator shipped with the [Android SDK](https://developer.android.com/studio/run/managing-avds). You can also use any emulator of your choice as well. 
 
+* Android platform tools
+  - On Linux:
+    - `sudo apt-get install android-tools-adb`
+  - On Mac:
+    - `brew cask install android-platform-tools`
+    
 * Java
 * Mac/linux operating system recomended
-* Android platform tools
 
 #### Recommended
 * Android Studio
 * Android SDK
 * Sublime Text Editor
-* Adhrit
+* [Adhrit](https://github.com/abhi-r3v0/Adhrit)
+
+### Checking Setup
+
+* Cheking for Java:
+`java --version`
+* Cheking ADB
+` adb --version`
 
 ---
 ## Installation
@@ -66,6 +80,35 @@ EVABS - Extremely Vulnerable Android Labs is a CTF-style, Android application th
 * Allow APK installation from [unkown sources in device settings](https://android.gadgethacks.com/how-to/android-basics-enable-unknown-sources-sideload-apps-0161947/)
 * Click on the donwloaded APK file and install the app
 
-### Installing the APK using 
+### Installing the APK using ADB (phone/emulator)
 
+* Head to the EVABS repository [here](https://github.com/abhi-r3v0/EVABS) and dowload the APK file `EVABS v1.1.apk` or directly download the APK file [EVABS v1.1.apk](https://github.com/abhi-r3v0/EVABS/blob/master/EVABSv1.1.apk)
+* Enable [USB Debugging](https://www.embarcadero.com/starthere/xe5/mobdevsetup/android/en/enabling_usb_debugging_on_an_android_device.html) in your device
+* Connect the device via USB. If you are using an emulator, skip this step. Instead, start the emulator.
+* Try:
+    `adb devices`
+    
+    This should list your connected device. If you are connecting your device for the first time, allow the computer by confirming the message that would pop-up on the device.
 
+* Install the APK 
+    `adb install -r path/to/EVABSv1.1.apk`
+    
+    You will receive a success message if the installation completes.
+    
+### Building Locally
+
+* Head to the EVABS repository [here](https://github.com/abhi-r3v0/EVABS) and either clone the repository or download as a zip file.
+* Extract the zip file to your `Android Studio Projects` directory.
+    `unzip EVABS-master.zip path/to/AndroidStudioProjects`
+* Fire up Android Studio and navigate to **File - Open** and select the extracted project directory. This will open the project. 
+* Deploying 
+  - Running the app without generating a signed APK
+    - Click on **Run** and EVABS will be deployed in the connected device/emulator. 
+    
+  - Building a signed APK
+    - Navigate to **Build - Generate Signed APK**. Create a new signature if you haven't created already. Sign the APK (v2 recommended) as **release**. You'll find the APK file as `AndroidStudioProjects/EVABS-master/app/release/app-release.apk`
+    - Install this APK with ADB as discussed in the earlier section.
+    
+## Conclusion
+
+This winds up the basic setup procedure. As we start completing labs, we will be installing the other necessary tools so that the context of the tool is understood. proceed to PART 2 to continue.
