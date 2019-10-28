@@ -39,11 +39,13 @@ EVABS - Extremely Vulnerable Android Labs is a CTF-style, Android application th
 * A rooted device or emulator. A rooted device is recommended
     - For a rooted device, one of the below devices are recommended
   
-    - | __Device__  |  __make__  | 
+      | __Device__  |  __make__  | 
       |-------------|------------|
       | Moto G5/6   | Motorola   | 
       | Pixel       | Google     |
       | 3/3T/5/5T   | OnePlus    |
+      
+      Any other device of your choice could be used, provided, they have `root` available. You can check if your device can be rooted easily by Googling.
 
 * Java
 * Mac/linux operating system recomended
