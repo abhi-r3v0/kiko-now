@@ -8,7 +8,7 @@ I write about my findings and little experiments here.
 
 ### Contact me
 
-[jmabhishek4@gmail.com](mailto:jmabhishek4@gmail.com)
+* [jmabhishek4@gmail.com](mailto:jmabhishek4@gmail.com)
 * [Portfolio](https://www.hawkspawn.com)
 * [LinkedIn](https://Linkedin.com/in/hawkspawn/)
 * [Twitter](https://twitter.com/HawkSpawn)
