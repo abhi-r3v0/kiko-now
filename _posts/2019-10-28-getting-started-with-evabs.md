@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [PART 1] Getting Started with Android Security : EVABS!
+title: Getting Started with Android Security
 tags:
   - Android
   - CTF
