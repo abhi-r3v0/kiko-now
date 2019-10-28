@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "[PART 1] Getting Started with EVABS "
-tags: [Android, Android Security, CTF, EVABS]
+tags: [EVABS]
 
 ---
 
