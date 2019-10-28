@@ -69,7 +69,7 @@ EVABS - Extremely Vulnerable Android Labs is a CTF-style, Android application th
 * Cheking for Java:
 `java --version`
 * Cheking ADB
-` adb --version`
+`adb --version`
 
 ---
 ## Installation
