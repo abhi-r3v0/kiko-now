@@ -11,7 +11,7 @@ If you have not completed the setup for solving the labs, please refer to` [Part
 
 Once EVABS has been installed, open the application. Input your name and you'll be greeted with the landing page.
 
-![](https://github.com/abhi-r3v0/EVABS/blob/master/docs/images/newui.jpg){: .center-image}
+![](/images/EVABSP2/newui.jpg){: .center-image}
 
 
 ---
@@ -33,7 +33,7 @@ EVABS{s0m3_l33t_t3xt_h3r3}
 
 Once you have found a flag successfully, submit the flag using the `Flag Check` feature of the application. If you see a success message, congratulations, you have solved the level! 
 
-![](https://github.com/abhi-r3v0/EVABS/blob/master/docs/images/flagcheck.jpg)
+![](..images/EVABSP2/flagcheck.jpg)
 
 Hopefully, this gives some idea on how EVABS works. 
 Let's move on to our next section where we start solving the levels. 
