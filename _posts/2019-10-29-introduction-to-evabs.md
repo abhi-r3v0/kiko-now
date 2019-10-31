@@ -11,7 +11,6 @@ If you have not completed the setup for solving the labs, please refer to` [Part
 
 Once EVABS has been installed, open the application. Input your name and you'll be greeted with the landing page.
 
-</br>
 <p align="center">
   <img width="220" height="430" src="https://github.com/abhi-r3v0/EVABS/blob/master/docs/images/newui.jpg">
 </p>
