@@ -6,12 +6,13 @@ tags: [EVABS]
 ---
 This blog post is a very basic introduction to how EVABS works and how to solve it.
 
-## Preface
 > NOTE: If you have not completed the setup for solving the labs, please refer to [Part 1: Getting Started with EVABS](https://www.hawkspawn.com/blog/getting-started-with-evabs/).
 
 Once EVABS has been installed, open the application. Input your name and you'll be greeted with the landing page.
 
-![](https://github.com/abhi-r3v0/blog/blob/gh-pages/images/EVABSP2/newui.jpg)
+![](https://github.com/abhi-r3v0/blog/blob/gh-pages/images/EVABSP2/newui.jpg )
+![Medium example image](http://placehold.it/400x200 "Medium example image")
+
 
 
 ---
