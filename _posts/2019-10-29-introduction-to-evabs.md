@@ -10,7 +10,7 @@ This blog post is a very basic introduction to how EVABS works and how to solve 
 
 Once EVABS has been installed, open the application. Input your name and you'll be greeted with the landing page.
 
-![](https://github.com/abhi-r3v0/blog/blob/gh-pages/images/EVABSP2/newui.jpg )
+![](https://github.com/abhi-r3v0/blog/blob/gh-pages/images/EVABSP2/newui.jpg/150x350 "ss1")
 ![Medium example image](http://placehold.it/400x200 "Medium example image")
 
 
