@@ -10,8 +10,7 @@ This blog post is a very basic introduction to how EVABS works and how to solve 
 
 Once EVABS has been installed, open the application. Input your name and you'll be greeted with the landing page.
 
-![](https://ibb.co/PCHwkwj "ss1")
-<a href="https://ibb.co/PCHwkwj"><img src="https://i.ibb.co/bd9ztzm/newui.jpg" alt="newui" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>picture uploader</a><br/>
+<a href="https://ibb.co/PCHwkwj"><img src="https://i.ibb.co/bd9ztzm/newui.jpg" alt="newui" border="0" style="text-align: center"></a>
 
 ---
 ### Challenges
