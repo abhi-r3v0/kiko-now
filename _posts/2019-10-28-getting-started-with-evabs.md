@@ -6,9 +6,10 @@ tags: [EVABS]
 ---
 
 ## Introduction
+In this blog post, we'll see how we can kickstart learning Android security in a CTF approach.
 
 ### What are CTFs?
-In this blog post, we'll see how we can kickstart learning Android security in a CTF approach. CTF stands for 'Capture The Flag' which is basically gamifying and making the learning process more intuitive and fun. In a CTF, a user is given intentionally vulnerable softwares/hardwares. The 'software/hardware' mentioned here includes, but is not limited to:
+CTF stands for 'Capture The Flag' which is basically gamifying and making the learning process more intuitive and fun. In a CTF, a user is given intentionally vulnerable softwares/hardwares. The 'software/hardware' mentioned here includes, but is not limited to:
 
 * Web applications
 * Programs/executables
