@@ -42,9 +42,13 @@ We easily find the answer: Using ADB logcat
 
 ### ADB Logcat
 
-*ADB Logcat* is a feature provided the command-line tool ADB, which is a tool used for communicating with the Android device from a computer. 
+*ADB Logcat* is a feature provided by the command-line tool ADB, which is a tool used for communicating with the Android device from a computer. 
 
 Let's now try to get the log of an Android device/emulator to understand this.
 
-Step 1: Connect your Android device or start up your emulator.
+Step 1: Connect your Android device to your PC or start up your emulator.
+
+Step 2: Open EVABS and navigate to 
+
+cred://app/launch?page=https://www.google.com
 
